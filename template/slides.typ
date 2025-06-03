@@ -7,7 +7,7 @@
   group: [Name of group],
   title: [Title of presentation],
   subtitle: [The subtitle],
-  extra: [Name of author, Date],
+  extra: [Name of speaker, Date],
 )
 
 #slide[
