@@ -3,6 +3,8 @@
 
 #show: cetramed.setup
 
+// you can use `cetramed.ukj-blue` to access the color used for headings etc.
+
 #cetramed.title-slide(
   group: [Name of group],
   title: [Title of presentation],
