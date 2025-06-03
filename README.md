@@ -9,8 +9,8 @@ Use via
 typst init @preview/cetramed-polylux your-new-talk
 ```
 
-A `slides.typ` file will be created for you and contains some suggestions for
-how you might set up your slides.
+A `slides.typ` file will be created for you and contains the basic scaffold for
+your slides.
 
 This template uses the fonts
 [Fira Sans](https://bboxtype.com/typefaces/FiraSans) and
