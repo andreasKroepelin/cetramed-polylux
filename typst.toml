@@ -6,7 +6,7 @@ authors = ["Andreas Kröpelin"]
 license = "MIT"
 description = "CeTraMed template for Polylux"
 # repository = "https://github.com/polylux-typ/metropolis"
-keywords = ["cetramed", "polylux", "presentation", "slides", "slide", "talk", "lecture"]
+keywords = ["cetramed", "ukj", "jena", "polylux", "presentation", "slides", "slide", "talk", "lecture"]
 categories = ["presentation"]
 
 [template]
