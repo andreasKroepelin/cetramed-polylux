@@ -1,4 +1,4 @@
-# CeTraMed slide template for Polylux
+# CeTraMed slides template for Polylux
 
 A template for creating presentation slides with Typst and
 [Polylux](https://github.com/polylux-typ/polylux/), following the branding of
