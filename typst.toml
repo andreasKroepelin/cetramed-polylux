@@ -3,9 +3,9 @@ name = "cetramed-polylux"
 version = "0.1.0"
 entrypoint = "lib.typ"
 authors = ["Andreas Kröpelin"]
-license = "MIT"
+license = "Unlicense"
 description = "CeTraMed template for Polylux"
-# repository = "https://github.com/polylux-typ/metropolis"
+repository = "https://github.com/andreasKroepelin/cetramed-polylux"
 keywords = ["cetramed", "ukj", "jena", "polylux", "presentation", "slides", "slide", "talk", "lecture"]
 categories = ["presentation"]
 
